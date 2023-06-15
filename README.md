@@ -19,5 +19,5 @@
     *Click on terminal to input your commands gotten from GitHub.
     *Initialize git from the command gotten from GitHub.
     *Copy all the commands as it appears line by line in your Github to the terminal in your visual studio code.
-    *Push local repository to the cloud base repository by clicking on git push origin main.
+    * Push local repository to the cloud base repository by clicking on git push origin main.
 
